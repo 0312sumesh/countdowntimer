@@ -8,3 +8,17 @@ In this files, There are 3 files which is used to design the countdown timer.
 
 It's just you set the occasion date in script.js and leave it. The program does the countdown.
 If you want change the background-image, go to style.css and change the url of background image with your favorite image.
+
+
+
+How to save and implement the program is;
+
+   Countdown
+   |
+   |--index.html
+   |
+   |--style.css
+   |
+   |--script.js(Date can be changed in this file)
+   |
+   '--image.jpg(recommended in files or you fav image)
